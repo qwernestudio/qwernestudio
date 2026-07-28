@@ -1,16 +1,36 @@
-## Hi there 👋
+# Qwerne Studio
 
-<!--
-**qwernestudio/qwernestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Premium websites, AI solutions and business automation.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We build modern digital products that help businesses grow.
+
+### Services
+
+- Premium Websites
+- AI Solutions
+- Business Automation
+- Web Applications
+- Landing Pages
+
+### Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Node.js
+
+### Website
+
+https://www.qwerne.com
+
+### Contact
+
+contact@qwerne.com
+
+---
+
+Building premium digital experiences.

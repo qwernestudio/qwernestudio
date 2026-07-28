@@ -27,10 +27,6 @@ We build modern digital products that help businesses grow.
 
 https://www.qwerne.com
 
-### Contact
-
-contact@qwerne.com
-
 ---
 
 Building premium digital experiences.
